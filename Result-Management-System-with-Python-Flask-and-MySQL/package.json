@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "docxtemplater": "^3.40.2"
+  }
+}
