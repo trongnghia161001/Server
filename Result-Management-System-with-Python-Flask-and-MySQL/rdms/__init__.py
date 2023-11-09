@@ -17,7 +17,7 @@ CORS(app)
 
 # Change this URI if you are working with this project on your machine
 # Configure database connection 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:trongnghia2k1@localhost:3306/project'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://admin:laptrinhmangnangcao@laptrinhmangnangcao.cdhsp7ruy5ss.ap-southeast-1.rds.amazonaws.com:3306/project'
 
 # Suppress warnings 
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
